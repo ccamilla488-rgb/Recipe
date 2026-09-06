@@ -1,5 +1,7 @@
 Ingredients
 
+Let's begin!
+
 1 and 1/2 cups (188g) all-purpose flour (spooned & leveled)
 1 teaspoon baking powder
 1 teaspoon baking soda
@@ -13,3 +15,5 @@ Ingredients
 1 teaspoon pure vanilla extract
 2 Tablespoons (30ml) milk*
 optional: 1 cup chopped walnuts, pecans, or chocolate chips
+
+Enjoy my recipe!
