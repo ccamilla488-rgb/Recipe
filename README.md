@@ -7,3 +7,6 @@ line 2 changed remotely
 1. I am making a change to this file.
 2. The recipe is **really yummy** and everyone should make it.
 3. This recipe is great for **meal prepping.**
+
+![Love this banana bread](banana-muffins.jpeg.jpeg)
+
